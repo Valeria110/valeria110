@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D0%B8%D0%B2%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-a19124256/" target="_blank"> <img src="https://www.redkeynetwork.org/resources/Pictures/Linkedin-01.png" alt="LinkedIn" title="LinkedIn" height='42px'/></a>
 <a href="https://www.instagram.com/valeria__ivashkevich/" target="_blank"> <img src="https://telegra.ph/file/0361444e5f307c49f758b.png" alt="Instagram" title="Instagram" height='42px'/></a>
-<a href="https://www.instagram.com/valeria__ivashkevich/" target="_blank"> <img src="https://mir-rast.ru/wp-content/uploads/2023/11/telegram_icon.png" alt="Telegram" title="Telegram" height='42px'/></a>
+<a href="https://t.me/valerjanochka" target="_blank"> <img src="https://mir-rast.ru/wp-content/uploads/2023/11/telegram_icon.png" alt="Telegram" title="Telegram" height='42px'/></a>
 
 ### About me :pencil2:
 Currently, I’m a third-year student at BSEU at the facilty of International Business Communications. I study **3 foreign languages (English - С1, German and Chinese)**, Business communication and economics. 
