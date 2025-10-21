@@ -7,7 +7,7 @@
 <a href="https://t.me/valerjanochka" target="_blank"> <img src="https://mir-rast.ru/wp-content/uploads/2023/11/telegram_icon.png" alt="Telegram" title="Telegram" height='42px'/></a>
 
 ### About me :pencil2:
-Currently, I’m a fourth-year student at BSEU at the faculty of International Business Communications. I study **3 foreign languages (English - С1, German and Chinese)**, business communication and economics. 
+Currently, I’m a fifth-year student at BSEU at the faculty of International Business Communications. I study **3 foreign languages (English - С1, German and Chinese)**, business communication and economics. 
 
 For sure, I study **front-end developmen**t :computer:. I really fell in love with this IT-direction. I realized that I wanted to connect my life with front-end, since it is something that I enjoy and there is always the opportunity to improve your skills and learn something new, so you never stand still. My aim is to do all my best to make this dream come true, make this world and people in it happier by contributing to it.
 
