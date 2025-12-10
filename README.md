@@ -1,10 +1,10 @@
 ### Hi there, I'm Valerie<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Front-end Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>22 y.o.</em></p>
+<p><em>Front-end Developer</em></p>
 
-<a href="https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D0%B8%D0%B2%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-a19124256/" target="_blank"> <img src="https://www.redkeynetwork.org/resources/Pictures/Linkedin-01.png" alt="LinkedIn" title="LinkedIn" height='42px'/></a>
-<a href="https://www.instagram.com/valeria__ivashkevich/" target="_blank"> <img src="https://telegra.ph/file/0361444e5f307c49f758b.png" alt="Instagram" title="Instagram" height='42px'/></a>
-<a href="https://t.me/valerjanochka" target="_blank"> <img src="https://mir-rast.ru/wp-content/uploads/2023/11/telegram_icon.png" alt="Telegram" title="Telegram" height='42px'/></a>
+<a href="https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D0%B8%D0%B2%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-a19124256/" target="_blank"> <img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="LinkedIn" title="LinkedIn" height='42px'/></a>
+<a href="https://www.instagram.com/valeria__ivashkevich/" target="_blank"> <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" title="Instagram" height='42px'/></a>
+<a href="https://t.me/valerjanochka" target="_blank"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" title="Telegram" height='42px'/></a>
 
 ### About me :pencil2:
 Currently, I’m a fifth-year student at BSEU at the faculty of International Business Communications. I study **3 foreign languages (English - С1, German and Chinese)**, business communication and economics. 
