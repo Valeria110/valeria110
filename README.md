@@ -7,16 +7,16 @@
 <a href="https://t.me/valerjanochka" target="_blank"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" title="Telegram" height='42px'/></a>
 
 ### About me :pencil2:
-Currently, I’m a fifth-year student at BSEU at the faculty of International Business Communications. I study **3 foreign languages (English - С1, German and Chinese)**, business communication and economics. 
+Graduated from BSEU, Faculty of International Business Communications. Currently, I'm a Frontend developer with knowledge of **backend** (Node.js, NestJS), **3 languages** (English – C1, German – A2/B1,
+Chinese – A1) and excellent communication skills. 
 
-For sure, I study **front-end developmen**t :computer:. I really fell in love with this IT-direction. I realized that I wanted to connect my life with front-end, since it is something that I enjoy and there is always the opportunity to improve your skills and learn something new, so you never stand still. My aim is to do all my best to make this dream come true, make this world and people in it happier by contributing to it.
 
 ### 🔨Current Stack:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" title="figma" height='42px'/> </a>
 <img align="left" alt="HTML" height ="42px"  title="HTML" src="https://2.bp.blogspot.com/-gRcP5tUNa18/VVjaYKKafEI/AAAAAAAAEmM/TlFNdSVC7Pw/s1600/pengertian%2Bhtml%2Bfungsi%2Bhtml%2Bsejarah%2Bhtml.png">
 <img align="left" alt="CSS" height ="42px"  title="CSS" src="https://umk-web.com/assets/img/css-logo-2.png">
 <img align="left" alt="SASS" height ="42px" title="SASS" src="https://user-images.githubusercontent.com/7737763/27281423-157a2abc-54ec-11e7-9830-4384d6dd410c.png">
-<img align="left" alt="JavaScript" height ="42px"  title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png">
+<img align="left" alt="JavaScript" height ="42px"  title="JavaScript" src="https://www.svgrepo.com/show/353925/javascript.svg">
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt"  title="Typescript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <img align="left" alt="Webpack" height ="42px" title="Webpack" src="https://www.freedownloadlogo.com/logos/w/webpack-icon.svg">
 <a href="https://vitejs.dev/" target="_blank"><img align="left" alt="Vite" height ="42px" title="Vite" src="https://www.svgrepo.com/show/374167/vite.svg"></a>
@@ -29,6 +29,9 @@ For sure, I study **front-end developmen**t :computer:. I really fell in love wi
 <a href="https://nextjs.org/" target="_blank"><img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="Next.js" title="Next.js" height='42px' align="left" alt="HTML" height ="42px"/></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px"  title="node.js" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" height ="42px"  title="GraphQL" src="https://www.svgrepo.com/show/353834/graphql.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px"  title="MySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px"  title="PostgreSQL" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px"  title="Docker" src="https://www.svgrepo.com/show/303231/docker-logo.svg"></a>
 
 <!--
 **Valeria110/valeria110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
